@@ -8,14 +8,6 @@
 - `Name` : Eom BoSung
 - `Email` : workebs0012@gmail.com
  
-## GitHub Stat and Languages
-<!-- username은 본인걸로 -->
-<p align='center'>
-  <a href="https://github.com/BSEom">
-    <img src="https://github-readme-stats.vercel.app/api?username=BSEom&theme=tokyonight&show_icons=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSEom&theme=tokyonight&layout=compact"/>
-  </a>
-</p>
 
 ## Using Languages
 <p align='left'>
@@ -67,6 +59,15 @@
 - [IoT] [IoT프로젝트](https://github.com/hugoMGSung/works-need-it-IoT/tree/main/energy_management_system)
 - [Python] [Python강의 프로젝트](https://github.com/hugoMGSung/iot-python-2025)
 - [Spring Boot] [SpringBoot](https://github.com/hugoMGSung/basic-python-2024)
+
+## GitHub Stat and Languages
+<!-- username은 본인걸로 -->
+<p align='center'>
+  <a href="https://github.com/BSEom">
+    <img src="https://github-readme-stats.vercel.app/api?username=BSEom&theme=tokyonight&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSEom&theme=tokyonight&layout=compact"/>
+  </a>
+</p>
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 
