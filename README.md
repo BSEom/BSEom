@@ -1,6 +1,6 @@
 <p align='center'>
   <a href="https://github.com/BSEom">
-    <img src="https://capsule-render.vercel.app/api?type=rounded&height=250&color=gradient&text=BS_Eom`s%20%20Repo&section=header"/>
+    <img src="https://capsule-render.vercel.app/api?type=rounded&height=250&color=gradient&text=EBS`s%20%20Repo&section=header"/>
   </a>
 </p>
 
