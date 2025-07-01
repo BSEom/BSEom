@@ -5,18 +5,15 @@
 </p>
 
 ## Profile
-- `Name` : Sung MyungGun (Hugo)
-- `Email` : personar95@naver.com
-- 🔭 I'm currently working as an **IoT instructor**
-  - Major : C#, Smart Factory, IoT Development
-  - Minor : Python, Java, Web Dev(Spring Boot, ASP.NET, etc)
+- `Name` : Eom BoSung
+- `Email` : workebs0012@gmail.com
  
 ## GitHub Stat and Languages
 <!-- username은 본인걸로 -->
 <p align='center'>
-  <a href="https://github.com/hugoMGSung">
-    <img src="https://github-readme-stats.vercel.app/api?username=hugoMGSung&theme=tokyonight&show_icons=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugoMGSung&theme=tokyonight&layout=compact"/>
+  <a href="https://github.com/BSEom">
+    <img src="https://github-readme-stats.vercel.app/api?username=BSEom&theme=tokyonight&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSEom&theme=tokyonight&layout=compact"/>
   </a>
 </p>
 
