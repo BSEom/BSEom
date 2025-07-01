@@ -27,12 +27,11 @@
 
 ---
 
-<!-- 깃허브 통계 원하면 주석 해제 -->
-<!--
+
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-id&show_icons=true&theme=default"/>
 </p>
--->
+
 
